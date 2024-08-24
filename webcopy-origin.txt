@@ -1,0 +1,172 @@
+Uri: https://llaun.ch/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\llaun.ch\apple-touch-icon-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\llaun.ch\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\llaun.ch\favicon-16x16-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\llaun.ch\favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/favicon.svg
+File Name: C:\Downloaded Web Sites\llaun.ch\favicon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://llaun.ch/manifest.json
+File Name: C:\Downloaded Web Sites\llaun.ch\manifest-1.json
+Content Type: application/json
+
+Uri: https://llaun.ch/repo/downloads/LegacyLauncher_Installer_legacy.exe
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\LegacyLauncher_Installer_legacy-1.exe
+Content Type: application/octet-stream
+
+Uri: https://llaun.ch/repo/downloads/LegacyLauncher_legacy.jar
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\LegacyLauncher_legacy-1.jar
+Content Type: application/java-archive
+
+Uri: https://llaun.ch/repo/downloads/LegacyLauncher_Portable_legacy.zip
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\LegacyLauncher_Portable_legacy-1.zip
+Content Type: application/zip
+
+Uri: https://llaun.ch/repo/downloads/LegacyLauncher_Source_legacy.zip
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\LegacyLauncher_Source_legacy-1.zip
+Content Type: application/zip
+
+Uri: https://llaun.ch/repo/downloads/TL_legacy.deb
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\TL_legacy-1.deb
+Content Type: application/octet-stream
+
+Uri: https://llaun.ch/repo/downloads/TL_legacy.dmg
+File Name: C:\Downloaded Web Sites\llaun.ch\repo\downloads\TL_legacy-1.dmg
+Content Type: application/octet-stream
+
+Uri: https://llaun.ch/tr
+File Name: C:\Downloaded Web Sites\llaun.ch\tr-1.html
+Content Type: text/html
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-accounts.a2244d4d.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-accounts-7.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-accounts.a2244d4d.png&w=2048&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-accounts-6.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-accounts.a2244d4d.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-accounts-5.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-accounts.a2244d4d.png&w=3840&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-accounts-4.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-main.f82b7b7f.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-main-7.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-main.f82b7b7f.png&w=2048&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-main-6.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-main.f82b7b7f.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-main-5.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-main.f82b7b7f.png&w=3840&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-main-4.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-settings.5870be27.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-settings-7.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-settings.5870be27.png&w=2048&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-settings-6.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-settings.5870be27.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-settings-5.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fen-light-settings.5870be27.png&w=3840&q=90
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\en-light-settings-4.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fubuntu_1.deeb668b.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\ubuntu_1-1.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fubuntu_2.fd34c220.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\ubuntu_2-1.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fubuntu_3.31fabb6b.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\ubuntu_3-1.webp
+Content Type: image/webp
+
+Uri: https://llaun.ch/_next/static/chunks/442-5ad562cc2e54e64c.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\442-5ad562cc2e54e64c-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/54-ce2c9810d176224b.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\54-ce2c9810d176224b-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/framework-f44d5bde8fe24144.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\framework-f44d5bde8fe24144-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/main-c923a7da9fbf14dd.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\main-c923a7da9fbf14dd-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/pages/index-cf7b311c64e0a3c4.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\pages\index-cf7b311c64e0a3c4-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/pages/_app-bd35aff4c6964153.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\pages\_app-bd35aff4c6964153-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\polyfills-c67a75d1b6f99dc8-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/chunks/webpack-70aa5a19b1d5f4e7.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\chunks\webpack-70aa5a19b1d5f4e7-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/css/6443ec4ed970dd37.css
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\css\6443ec4ed970dd37-1.css
+Content Type: text/css
+
+Uri: https://llaun.ch/_next/static/media/en-light-accounts.a2244d4d.png
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\media\en-light-accounts.a2244d4d-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/_next/static/media/en-light-main.f82b7b7f.png
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\media\en-light-main.f82b7b7f-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/_next/static/media/en-light-settings.5870be27.png
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\media\en-light-settings.5870be27-1.png
+Content Type: image/png
+
+Uri: https://llaun.ch/_next/static/x4BkObDOWezIgd2A0b80R/_buildManifest.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\x4BkObDOWezIgd2A0b80R\_buildManifest-1.js
+Content Type: application/javascript
+
+Uri: https://llaun.ch/_next/static/x4BkObDOWezIgd2A0b80R/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\llaun.ch\_next\static\x4BkObDOWezIgd2A0b80R\_ssgManifest-1.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/91506751
+File Name: C:\Downloaded Web Sites\llaun.ch\watch\91506751-1
+Content Type: image/gif
+
